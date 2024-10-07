@@ -14,9 +14,12 @@
 - Currently working on adapting the Invariant Stock framewrok for the Carhart four factor model - hope to be able to effciently improve it by factoring another layer of risk.
 
 - For any potential recruiters, here is how you can reach me:
-    a. Linkedin : [(https://www.linkedin.com/in/yashjoshi4/)](url)
-    b. School Email : [(yashak.j.2024@mqf.smu.edu.sg)](url)
-    c. Personal Email : [(yashjo318@gmail.com)](url)
+  
+     **Linkedin** : [(https://www.linkedin.com/in/yashjoshi4/)](Linkedin)
+  
+     **School Email** : [(yashak.j.2024@mqf.smu.edu.sg)](School_Email)
+  
+     **Personal Email** : [(yashjo318@gmail.com)](Personal_Email)
 
 	
 ![image](https://github.com/user-attachments/assets/cf9ce04b-8d92-4977-8969-7b5c92ee4601)
