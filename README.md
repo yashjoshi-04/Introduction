@@ -3,6 +3,8 @@
 #### I'm Yash Joshi, currently enrolled to my MSc. in Quantitative Finance at Singapore Management University. I've have ~4 years of work experience as a credit risk portolio analyst at Citibank.
 
 - The subjects in my first term are:
+
+
     a. Programming and Computational Finance
     b. Stocahstic Modelling and Calculus in Finance
     c. Asset Pricing
