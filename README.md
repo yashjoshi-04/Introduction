@@ -8,7 +8,7 @@
     c. Asset Pricing
     d. Quantitative Analysis of Financial Markets
 - I'm super interested in Asset Pricing and Portfolio management/building.
-- The objective of this GitHub is to chart my progress! I started out with minimal experience in Pythin, although I'm competant with MySQL and SAS EG.
+- The objective of this GitHub is to chart my progress! I started out with minimal experience in Python, although I'm competant with MySQL and SAS EG.
 - I hope you find some of the projects I've worked on interesting! Some of them are extensions of assignemnts and projects done at uni.
 - My codes aren't the most efficient ones out there, but please bear with me! Hopefully by the end of my journey at SMU, I'll be one of y'all!
 - Currently working on adapting the Invariant Stock framewrok for the Carhart four factor model - hope to be able to effciently improve it by factoring another layer of risk.
